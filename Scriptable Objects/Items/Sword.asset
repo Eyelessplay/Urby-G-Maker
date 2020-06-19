@@ -15,5 +15,5 @@ MonoBehaviour:
   prefab: {fileID: 1935129204000921353, guid: 51602c94b2920204b89980188db6fe64, type: 3}
   type: 1
   description: 
-  atkBonus: 0
+  atkBonus: 10
   defenceBonus: 0
